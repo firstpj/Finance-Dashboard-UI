@@ -46,3 +46,16 @@ function logout() {
   localStorage.removeItem("role");
   window.location.href = "index.html";
 }
+
+function toggleMenu() {
+  sidebar.classList.toggle("active");
+  overlay.classList.toggle("active");
+}
+
+function closeMenu() {
+  const sidebar = document.querySelector(".sidebar");
+  const overlay = document.querySelector(".overlay");
+
+  sidebar.classList.remove("active");
+  overlay.classList.remove("active");
+}
