@@ -105,4 +105,4 @@ The goal of this project is to showcase frontend development skills including UI
 ---
 
 ## 👨‍💻 Author
-Frontend Developer Intern Candidate
+Frontend Developer Intern Candidat

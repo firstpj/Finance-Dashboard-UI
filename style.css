@@ -49,6 +49,7 @@ body {
   border-radius: 5px;
 }
 
+/* Button */
 button {
   background: #3498db;
   color: white;
@@ -62,7 +63,24 @@ button:hover {
   background: #2980b9;
 }
 
+/* Select */
 select {
   padding: 10px;
   border-radius: 5px;
+}
+
+/* ✅ SIMPLE RESPONSIVE DESIGN (NO BUGS) */
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+  }
+
+  .main {
+    padding: 10px;
+  }
 }
