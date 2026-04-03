@@ -87,7 +87,8 @@ The goal of this project is to showcase frontend development skills including UI
 3. Select a role (Admin/User)
 4. Click Login to access the dashboard
 
-## 💡 Live Demo--https://firstpj.github.io/Finance-Dashboard-UI/
+## 💡 Live Demo
+https://firstpj.github.io/Finance-Dashboard-UI/
 
 ## 💡 Assumptions
 - Authentication is simulated (no backend)
@@ -105,4 +106,4 @@ The goal of this project is to showcase frontend development skills including UI
 ---
 
 ## 👨‍💻 Author
-Frontend Developer Intern Candidat
+Collin - Frontend Developer Intern Candidate
